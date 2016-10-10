@@ -5,21 +5,25 @@ permalink:           pretty
 # relative_permalinks: true
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               'CodeLeg.com'
+tagline:             'The Data Science and Algorithm Design Blog'
+description:         'Howdy, I am Bosah Chude, a Data Scientist and Software Developer at <a href="http://www.belfox.net/">Belfox Technologies</a>.<br/><br/>Here, I scribble away my toughts as my legs take me into the world of code.'
+url:                 'http://www.codeleg.com/'
 baseurl:             ''
-paginate:            5
+paginate:            10
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              'Bosah Chude'
+  url:               'https://ng.linkedin.com/in/bosahchude'
+  email:             'chude@codeleg.com'
 
 # Custom vars
 version:             1.0.0
 
 # Dependencies
 gems:                [jekyll-paginate]
+
+# Social Info
+github:              'https://github.com/bosahchude/'
+linkedin:            'https://ng.linkedin.com/in/bosahchude'
