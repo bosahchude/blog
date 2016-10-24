@@ -3,6 +3,7 @@ layout: post
 title: Command-Line Tools for Improving Typing Skills.
 date: 2016-10-21
 category: reporting
+tags:
 ---
 I've been programming for over 10 years and I haven't given too much thought to
 typing speed. It's just something I haven't cared about--until recently.
@@ -21,11 +22,12 @@ When typing a report, it's a whole different ball game. Reports are the bogeyman
 of programmers. Nobody wants to get stuck doing them. They are boring yet they
 have to be precise and there is no room for error.
 
-Having a good speed can certainly make the data analysis and reporting process a lot more enjoyable. I've
-seen reports that should take maximum of 5 hours stretch into 18 hours because
-the programmer is typing like a snail, grinding out words at 20wpm.
+Having a good speed can certainly make the data analysis and reporting process
+a lot more enjoyable. I've seen reports that should take maximum of 5 hours
+stretch into 18 hours debacle because the programmer is typing like a snail,
+grinding out words at 20wpm.
 
-The Wikipedia article on typing speed says that only half of the
+Some research on typing speed says that only half of the
 population has the finger dexterity to exceed 40wpm. I'm not okay with that.
 No matter your job description, you should strive to type at 70wpm. That should
 be the minimum.
@@ -36,8 +38,8 @@ that would help you the way they have helped me improve my typing skills.
 
 The typing tutors I recommend are:
 
-1. [GNU Typist]()
-2. [Typespeed]()
+1. [GNU Typist](https://www.gnu.org/software/gtypist/index.html)
+2. [Typespeed](http://typespeed.sourceforge.net/)
 
 Unlike generic typing tutors out there like Mavis Beacon, these two apps are
 multiplatform, extremely lightweight and customizable to the core. I've used
@@ -50,8 +52,8 @@ just learning to touch type, there is no better tool out there for you.
 
 ![GNU Typist]({{site.baseurl}}/assets/images/GNU-Typist-1.jpg)
 
-With resources for typist of all levels, GNU Typist makes removes the distraction
-involved with traditional typing tutors leaving you with nothing but your white
+With resources for typist of all levels, GNU Typist removes the distraction
+involved with traditional typing tutors, leaving you with nothing but your white
 text on a black background which helps with concentration.
 
 ![GNU Typist]({{site.baseurl}}/assets/images/GNU-Typist.jpg)
@@ -59,30 +61,30 @@ text on a black background which helps with concentration.
 Here's what I like most about GNU Typist:
 
 1. Support for alternative keyboard layouts including Dvorak and Colemak.
-2. Extremely lightweight (>500kb)
-3. Multiplatform and Open Source (Take that Mavis Beacon!)
+2. Extremely lightweight (<500kb).
+3. Multiplatform and Open Source (Take that Mavis Beacon!).
 4. Hands down the best touch typing course I've ever seen. Unlike other typing
 tutors, GNU Typist focuses on teaching you the most used characters and vowels
-so you're typing full words and sentences after just learning the position of only
+so you're typing full words and sentences after just learning the positions of only
 10 characters on the keyboard.
 5. Comes with detailed documentation that show you how to plug in special
-languages or custom lessons
+languages or custom lessons.
 
 ## Typespeed
 
-Typespeed fills a void that I felt was really lacking in GNU Typist--Games.
+[Typespeed](http://typespeed.sourceforge.net/) fills a void that I felt was really lacking in GNU Typist--Games.
 Seriously, whoever thought leaving out games from GNU Typist was a good idea
 need to question their need to suck the fun out of life.
 
 ![Typespeed]({{site.baseurl}}/assets/images/Typespeed.jpg)
 
-If you already know how to touch type and just looking for a 3 minute commitment
-during a rest to blow off steam, Typespeed is your best friend.
+If you already know how to touch type and you're just looking for a 3 minute
+non-commitment during a rest to blow off steam, Typespeed is your best friend.
 
-The beauty of Typespeed is that you get to familiarize yourself with your
+The beauty of Typespeed is that you get to familiarize yourself with any
 programming language of choice while also having fun. It comes with presets of
 C# keywords, Dos and Unix Commands. You can also add the keywords of a programming
-language, framework and platform. You can even add those curly and square brackets
+language, framework or platform. You can even add those curly and square brackets
 `[] {}` that slow programmers down a lot.
 
 ![Typespeed]({{site.baseurl}}/assets/images/Typespeed-2.jpg)
@@ -92,11 +94,12 @@ helped with remembering things in addition to improving speed.
 
 ### Summary
 
-Improve your typing skills with GNU Typist and Typespeed. Don't be stuck in a
-state of 'Terminal Mediocrity', what ever your typing speed is, you could always
+Improve your typing skills with [GNU Typist](https://www.gnu.org/software/gtypist/index.html)
+and [Typespeed](http://typespeed.sourceforge.net/). Don't be stuck in a
+state of 'Terminal Mediocrity', whatever your typing speed is, you could always
 add more WPM.
 
 The time savings from having a fast typing speed piles up. Leaving
 the office at 5pm instead of 6pm might not matter much at first glance but when
 you add up the potential time savings over the period of a year, it becomes
-significant.
+quite significant.
