@@ -28,11 +28,11 @@ stretch into 18 hours debacle because the programmer is typing like a snail,
 grinding out words at 20wpm.
 
 Some research on typing speed says that only half of the
-population has the finger dexterity to exceed 40wpm. I'm not okay with that.
+population has the finger dexterity to exceed 50wpm. I'm not okay with that.
 No matter your job description, you should strive to type at 70wpm. That should
 be the minimum.
 
-If you aren't typing at that 100wpm yet, you should pick up one
+If you aren't typing at that 70wpm yet, you should pick up one
 of the tools I recommend below. They are open source, command-line based tools
 that would help you the way they have helped me improve my typing skills.
 
