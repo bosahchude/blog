@@ -12,7 +12,9 @@ GitHub pages are a life saver when you want to escape the current hell of Conten
 Whether you choose to run [Jekyll](http://jekyllrb.com/), [Hyde](http://hyde.github.io/) or you just want to drop plain old html
 files onto your sever. GitHub Pages is a free way to deploy your site.
 
-GitHub recommends you use a subdomain not an apex domain. So if your site is `example.com` it's recommended you create a subdomain like `blog.example.com`. If you choose to still go ahead and work with a apex domain name, you would have alter your ALIAS records.
+GitHub recommends you use a subdomain not an apex domain. So if your site is `example.com` it's recommended you create a subdomain like `blog.example.com` 
+
+If you choose to still go ahead and work with a apex domain name, you would have alter your ALIAS records.
 
 According to GitHub, using an apex domain has the following drawbacks:
 
@@ -71,9 +73,9 @@ You can fix this by adding permanent redirects from `example.com` to `www.exampl
 The redirects should also be done on you webhost's backend. Ensure the following
 rules are enforced with the redirects.
 
-1. Enable wildcard redirects so that example.com/about.html redirects to www.example.com/about.html
+1. Enable wildcard redirects so that `example.com/about.html` redirects to `www.example.com/about.html`
 
-2. Do NOT enable the option to force redirects of the www subdomain. This might trigger an endless loop.
+2. Do NOT enable the option to force redirects of the `www` subdomain. This might trigger an endless loop.
 
 3. Ensure that the redirects are permanent not temporary so you don't get punished by search engines.
 
@@ -87,4 +89,4 @@ verifying if they are sent or received.
 A more technical way to get this done is to run an email trace through your webhost. If you've followed this guide word-for-word, everything should be in order.
 
 ## Summary
-Configure the `www` subdomain of your website to point to GitHub and redirect the apex domain to it. This way, you don't tamper with your ALIAS records hence little chance of a breaking emails.
+Configure the `www` subdomain of your website to point to GitHub and redirect the apex domain to it. This way, you don't tamper with your ALIAS records hence little chance of breaking emails.
