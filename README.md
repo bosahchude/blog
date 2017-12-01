@@ -41,4 +41,4 @@ To enable commenting, you have to explicitly set it with:
     comments: true
 
 **Note:** You have to omit the line entirely to disable commenting, Simply
-changing comments to false would still display comments.
+changing comments to false would still display comments. Okay?
