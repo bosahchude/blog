@@ -8,7 +8,7 @@ permalink:           pretty
 title:               'CodeLeg.com'
 tagline:             'The Data Science and Algorithm Design Blog'
 description:         'Howdy, I am Bosah Chude, a Data Scientist and Software Developer at <a href="http://www.belfox.net/">Belfox Technologies</a>.<br/><br/>Here, I scribble away my toughts as my legs take me into the world of code.'
-url:                 'http://www.codeleg.com/'
+url:                 'https://bosahchude.github.io/blog/'
 baseurl:             ''
 paginate:            10
 
