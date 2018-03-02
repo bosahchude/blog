@@ -9,4 +9,4 @@ title: About
   <img src='{{site.baseurl}}/assets/chude.jpg' alt='Bosah Chude' />
 </p>
 
-Interested in contacting me? Shoot me an email via chude@codeleg.com
+Interested in contacting me? Shoot me an email via contact@belfox.net
